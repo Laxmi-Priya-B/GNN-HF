@@ -4,6 +4,12 @@ AI-powered system for detecting heart failure from ECG images using Graph Neural
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://gnn-kyxtsbly9-pkpranav45s-projects.vercel.app/
+
+---
+
 ## ⚡ Overview
 
 GNN-HF analyzes ECG images and predicts heart failure risk using a hybrid deep learning approach.
